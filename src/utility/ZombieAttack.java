@@ -4,6 +4,8 @@ public class ZombieAttack {
 
     public static void main(String[] args) {
 
+        //added two lines
+
 
         Scanner input = new Scanner(System.in);
         int[] inhabitants = new int[8];
